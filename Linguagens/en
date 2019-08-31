@@ -1,0 +1,36 @@
+local Textos = {}
+	--Menu
+	--Botao para abrir menu
+	Textos.Menu_Estrutura_Abrir = "MENU"
+	
+	--Estrutura
+	Textos.Menu_Estrutura_Changelog = "Changelog"
+	Textos.Menu_Estrutura_Retomar = "Resume"
+	Textos.Menu_Estrutura_Configuracoes = "Configurations"
+	Textos.Menu_Estrutura_Carregar = "Load"
+	Textos.Menu_Estrutura_Linguagem = "Language"
+	Textos.Menu_Estrutura_Teclado = "Keyboard"
+	
+	--Linguagem
+	Textos.Menu_Linguagem_Portugues = "Português"
+	Textos.Menu_Linguagem_Ingles = "English"
+	
+	--Changelog
+	Textos.Menu_Changelog_ScrollingFrame_Espaco1_Titulo = "V 1.0 (15-08-2019)"
+	Textos.Menu_Changelog_ScrollingFrame_Espaco1_Texto = "- It was generated a small part of the map\n- It was added the \'Spawn Zone\'\n- Start of the construction of the \'Main Shop\'"
+	Textos.Menu_Changelog_ScrollingFrame_Espaco2_Titulo = "V 1.1 (27-08-2019)"
+	Textos.Menu_Changelog_ScrollingFrame_Espaco2_Texto = "- It was added a drivable chassis of a car\n- Bugs Fixed\n- Realism of the Blinks increased\n- Start of the creation of the MENU (Resume / Language / Changelog)"
+	Textos.Menu_Changelog_ScrollingFrame_Espaco3_Titulo = "V 1.1.1 (31-08-2019)"
+	Textos.Menu_Changelog_ScrollingFrame_Espaco3_Texto = "- It was increased the language system"
+	Textos.Menu_Changelog_Voltar = "Back"
+	
+	--Configuracoes
+	Textos.Menu_Configuracoes_Texto = "This windows will be used to set some graphic settings, as well as the volume of the game"
+	Textos.Menu_Configuracoes_Botao = "Back"
+	
+	--Teclado
+	Textos.Menu_Teclado_Texto = "This window will be used to check / modifie the way we use the keyboard in the game"
+	Textos.Menu_Teclado_Botao = "Back"
+	------------------------------------------------------------------------------------------------
+	
+return Textos
