@@ -1,7 +1,7 @@
 local Textos = {}
 	--Menu
 	--Botao para abrir menu
-	Textos.Menu_Estrutura_Abrir = "MENU"
+	Textos.Menu_Estrutura_Abrir = ""
 	
 	--Estrutura
 	Textos.Menu_Estrutura_Changelog = "Changelog"
